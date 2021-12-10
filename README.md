@@ -33,6 +33,6 @@ Login.html :
 
 1) Yes we need to add these new requests to best meet demand. 
 
-2)
+2) When we are working on GitHub, we are on the steps of "Review", "Feedback" and "Approve ?".
 
 3)
